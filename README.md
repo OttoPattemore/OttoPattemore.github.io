@@ -1,3 +1,3 @@
 # Otto
 
-[Hello World](_posts/2022-2-24-HelloWorld.md)
+[Meteor M2 Gallery](_posts/meteor_m2/meteor_m2.md)
